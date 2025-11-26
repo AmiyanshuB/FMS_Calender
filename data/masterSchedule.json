@@ -1,0 +1,1026 @@
+[
+{
+"day": "Monday",
+"room": "Room 101",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Prod-Ops",
+"fixed": true
+},  
+{
+"day": "Monday",
+"room": "Room 101A",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 102",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room L2",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "OEC",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 102",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 203",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room L1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "MIS lecture",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 102",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 203",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Hall A (201)",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room L1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "MIS lecture",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 102",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 203",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Hall A (201)",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 101A",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room L102",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Room 203",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Monday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L1",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Corp Fin",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101A",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Brand Mgmt",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L1",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Corp Fin",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101A",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 102",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Brand Mgmt",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Economics",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L2",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 102",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101A",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Economics",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L2",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 102",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 101A",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Marketing",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room DK-1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Supply Chain Mngmt",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L2",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room L102",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Room 203",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Tuesday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L1",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L2",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 101A",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L1",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L2",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 101A",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L2",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 101A",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Accounts",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L2",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 101A",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room L102",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Room 203",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Wednesday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 102",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Skype Room",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Ad Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 102",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Skype Room",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Ad Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 102",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Skype Room",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Ad Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 102",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Skype Room",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Ad Mgmt",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L2",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room L1",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 102",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Room 203",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Seminar Hall",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Thursday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "Innovation Strategies",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room 102",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room L1",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room 101A",
+"startTime": "10:30",
+"endTime": "12:30",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room L1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Legal Envt of Buss",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room 101A",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Buss Comm",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room L102",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Room 203",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Friday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room DK-1",
+"startTime": "09:00",
+"endTime": "10:30",
+"className": "Supply Chain Mngmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 101A",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 102",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 203",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Seminar Hall",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Hall A (201)",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room DK-1",
+"startTime": "12:30",
+"endTime": "14:00",
+"className": "Supply Chain Mngmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 101A",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Strategic Mgmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 102",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Prod-Ops",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 203",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "MIS",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Seminar Hall",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Global Buss Mgmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Hall A (201)",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Service Marketing",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room DK-1",
+"startTime": "14:00",
+"endTime": "16:00",
+"className": "Supply Chain Mngmt",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room 203",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Hall A (201)",
+"startTime": "18:00",
+"endTime": "19:30",
+"className": "MBA Executive-1",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Room L1",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-2",
+"fixed": true
+},
+{
+"day": "Saturday",
+"room": "Hall A (201)",
+"startTime": "19:30",
+"endTime": "21:00",
+"className": "MBA Executive-1",
+"fixed": true
+}
+]
